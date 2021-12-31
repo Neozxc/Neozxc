@@ -9,9 +9,6 @@ Skills: REACT / JS / TS / HTML / CSS / Lua / Python / Node.JS / MySQL / MongoDB
 - 😄 Pronouns: He/Him. 
 - ⚡ Fun fact: I'm funny. 😳 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Neozxc)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neozxc&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Neozxc)  
