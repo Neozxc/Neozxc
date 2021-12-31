@@ -1,5 +1,6 @@
+<p align="center">
 ![](https://cdn.discordapp.com/attachments/910561139384012800/926422519060258886/tumblr_e92be5bd7731d9e85eddeb6bc73d0ff7_9c121275_540.gif)
-
+</p>
 
 Skills: REACT / JS / TS / HTML / CSS / Lua / Python / Node.JS / MySQL / MongoDB
 
