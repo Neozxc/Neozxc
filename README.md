@@ -4,16 +4,14 @@
 
 <p align="center">Skills: REACT / JS / TS / HTML / CSS / Lua / Python / Node.JS / MySQL / MongoDB</p>
 
-<p align="center"> 
 - 🔭 I’m currently working on CodeNation. 
 - 💬 Ask me about anything you want. 
 - 📫 How to reach me: neduska991@gmail.com 
 - 😄 Pronouns: He/Him. 
 - ⚡ Fun fact: I'm funny. 😳 
-</p>
 
 
-<p align="center">![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neozxc&show_icons=true)  </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Neozxc&show_icons=true)
 
-<p align="center">![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Neozxc) </p> 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Neozxc)
 
