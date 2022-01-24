@@ -9,10 +9,7 @@
 <p align="center">
   Hi, I am a Software Engineer from UK.
   <br>
-  <br>
-  🔬 I'm currently studying at CodeNation doing Master Course.
-  <br>
-  💻 I love writing code and fixing my own bugs!
+  I love writing code and fixing my own bugs!
   <br>
   <br>
   💡...😃...😒...🤔...🤩
