@@ -13,6 +13,9 @@
   🔬 I'm currently studying at CodeNation doing Master Course.
   <br>
   💻 I love writing code and fixing my own bugs!
+  <br>
+  <br>
+  💡...😃...😒...🤔...🤩
 </p>
 
 
