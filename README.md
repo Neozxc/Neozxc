@@ -44,7 +44,10 @@
   </div>
 </p>
 <br>
+<br>
+<p>
+  <br>
+</p>
 <p>
   <h2 align="center">Check out more below!</h2>
-
 </p>
