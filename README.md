@@ -44,5 +44,5 @@
   </div>
 </p>
 <br>
-<h2 align="center">🍩</h2>
+<h2 align="center">Check out more below!</h2>
 <br>
