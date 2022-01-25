@@ -16,7 +16,7 @@
 </p>
 
 
-<h2 align="center">I can work with<br></h2>
+<h2 align="center">I can Work with:<br></h2>
 <br>
 <p align="center">
   <code><img title="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
