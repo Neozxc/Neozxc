@@ -19,11 +19,13 @@
 <h2 align="center">I can Work with:<br></h2>
 <br>
 <p align="center">
+  <code><img title="TypeScript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
   <code><img title="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
   <code><img title="Javascript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
   <code><img title="HTML5" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
   <code><img title="CSS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
   <code><img title="React" height="40" src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png"></code>
+  <code><img title="Express" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
   <code><img title="GitHub" height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
   <code><img title="MySQL" height="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"</code>
   <code><img title="NPM" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png"></code>
