@@ -7,34 +7,71 @@
 </h1>
 <br>
 <p align="center">
-  Hi, I am a Software Engineer from UK.
+  Hi, I am a Software Developer from UK
   <br>
-  I love writing code and fixing my own bugs!
+ I like to make things work
   <br>
   <br>
   💡...😃...😒...🤔...🤩
 </p>
 
-
-<h2 align="center">I can work with<br></h2>
-<br>
-<p align="center">
-  <code><img title="C#" height="40" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png"></code>
-  <code><img title="TypeScript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
-  <code><img title="Python" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"></code>
-  <code><img title="Javascript" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
-  <code><img title="HTML5" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
-  <code><img title="CSS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
-  <code><img title="React" height="40" src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png"></code>
-  <code><img title="Express" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"></code>
-  <code><img title="GitHub" height="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
-  <code><img title="MySQL" height="40" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"</code>
-  <code><img title="NPM" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png"></code>
-  <code><img title="Lua" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/lua-5-logo-png-transparent.png"></code>
-  <code><img title="Node.JS" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
-  <code><img title="Mongo DB" height="40" src="https://www.logolynx.com/images/logolynx/99/991650c8d4d9179da5a7432655fb2b0e.png"></code>
-  </code>
-</p>
+<p align="center">Languages / Frameworks / Tools<br>That i use and many more that i learn behind the scenes...</p>
+<table align="center">
+    <tbody>
+        <tr>
+            <td><a href="#"><img alt="Lua" title="Lua" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" /></a>
+            </td>
+            <td><a href="#"><img alt="React" title="React" height="28px"
+                        src="https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1" /></a>
+            </td>
+            <td><a href="#"><img alt="MongoDB" title="MongoDB" height="28px"
+                        src="https://www.pisysmarine.com/assets/images/technology/mongoDB.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Git" title="Git" height="28px"
+                        src="https://cdn-icons-png.flaticon.com/512/25/25231.png" /></a>
+            </td>
+            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+            </td>
+            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            </td>
+            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+            </td>
+            <td><a href="#"><img alt="Python" title="Python" height="28px"
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+            </td>
+        </tr>
+      <tr>
+          <td><a href="#"><img alt="TypeScript" title="TypeScript" height="28px"
+                      src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" /></a></td>
+          </td>
+          <td><a href="#"><img alt="C#" title="C#" height="28px"
+                      src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
+          </td>
+          <td><a href="#"><img alt="MySQL" title="MySQL" height="28px"
+                      src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" /></a>
+          </td>
+          <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
+                      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+          </td>
+          <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
+                      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
+          </td>
+          <td><a href="#"><img alt="Visual Studio" title="Visual Studio" height="28px"
+                      src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
+          </td>
+          <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
+                      src="https://i.imgur.com/6nJGNMN.png" /></a></td>
+          </td>
+          <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
+                      src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
+          </td>
+      </tr>
+    </tbody>
+</table>
 <br>
 <p align=center>
   <div align=center>
