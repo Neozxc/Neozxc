@@ -1,8 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Neozxc">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://cdn.dribbble.com/users/1496134/screenshots/16348898/media/9450ad6ad9ae652ddb11270a77026605.gif">
   </a>
 </h1>
 <br>
@@ -82,10 +81,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/Neozxc/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Neozxc&theme=react&border=61dafb&hide_border=true" alt="Neozxc" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Neozxc&theme=dark&border=61dafb&hide_border=true" alt="Neozxc" />
     </a>
     <a href="https://github.com/Neozxc/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Neozxc&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Neozxc&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
     </a>
   </div>
 </p>
