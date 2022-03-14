@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <a>
+  <a href="#">
     <img height="250" src="https://ssit-jo.com/wp-content/uploads/2021/02/11.gif">
   </a>
 </h1>
