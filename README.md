@@ -1,7 +1,7 @@
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://cdn.dribbble.com/users/1496134/screenshots/16348898/media/9450ad6ad9ae652ddb11270a77026605.gif">
+  <a>
+    <img height="250" src="https://ssit-jo.com/wp-content/uploads/2021/02/11.gif">
   </a>
 </h1>
 <br>
